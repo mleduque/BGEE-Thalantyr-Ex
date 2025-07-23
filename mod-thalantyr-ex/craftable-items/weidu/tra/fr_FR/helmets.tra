@@ -1,0 +1,19 @@
+/* Reserving range 60000-69999 */
+
+
+/*********************
+*   Kiel's Helm +1   *
+*********************/
+@60000 = ~Heaume de Kiel +1~
+@60001 = ~Heaume de Kiel +1
+
+C'est le heaume de Kiel le Tueur de Légions, premier fils de Durlag le tueur de trolls et prince du clan de la tour de son père. On dit que quiconque le porte est immunisé à toute forme de peur ou de panique, d'origine magique ou naturelle.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- classe d'armure : +1
+- Protège des coups critiques
+- Protège de toute forme de peur ou de panique et augmente le moral
+
+Poids : 2~

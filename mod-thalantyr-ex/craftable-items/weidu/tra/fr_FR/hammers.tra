@@ -1,0 +1,27 @@
+/* Reserving range 120000-129999 */
+
+
+/************************************
+*   War Hammer +2: Hammer of Dawn   *
+************************************/
+@120000 = ~Marteau de l'aube +2~
+@120001 = ~Le Marteau de l'aube +2
+
+Fabriqué à partir des écailles et des os d'un dragon d'or serviteur de Lathandre, ce marteau de guerre canalise parfois le pouvoir de l'ancienne et puissante wyrm.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 15 % de chance à chaque coup de repousser la cible comme si elle avait été frappée par un coup d'aile.
+
+Capacités d'équipement :
+- Le porteur ne peut être détecté par des moyens magiques tels que la Détection de l'invisibilité et la Scrutation.
+
+TAC0 : +2
+Dégâts : 1d4 +3 (contondant)
+Facteur de vitesse : 3
+Type de compétence : marteau de guerre
+Type : arme à une main
+Nécessite : 9 en Force
+
+Poids : 6~

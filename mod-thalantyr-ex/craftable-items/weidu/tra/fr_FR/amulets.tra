@@ -1,0 +1,18 @@
+/* Reserving range 80000-89999 */
+
+
+/******************************
+*   Amulet of Protection +2   *
+******************************/
+@80000 = ~Amulette de protection +2~
+@80001 = ~Amulette de protection +2
+Des amulettes telles que celle-ci furent offertes à des personnalités honorables ou de statut élevé dans les cours royales, à des mages en guise de reconnaissance, ou encore à des chevalier pour leur service. 
+La teinte de cette amulette tire sur le bleu..
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- classe d'armure : +2
+- jet de sauvegarde : +2
+
+Poids : 1~

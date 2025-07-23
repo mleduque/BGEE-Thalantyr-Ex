@@ -1,0 +1,42 @@
+/* Reserving range 110000-119999 */
+
+
+/**************************
+*   Dagger +2: Werebane   *
+**************************/
+@110000 = ~Dague ornée argentée/dorée~
+@110001 = ~Antigarous +2~
+@110002 = ~Cette dague en argent et or toute simple a une lame pointue à double tranchant.
+
+PARAMÈTRES :
+
+Dégâts : 1d4 (perforant)
+Facteur de vitesse : 2 
+Type de compétence : dague
+Type : arme à une main
+Nécessite : 3 en Force
+
+Poids : 1~
+@110003 = ~Dague d'argent: Antigarous +2
+
+Cette dague fut forgée par Dynala Maindorée, une rôdeuse elfe qui voulait débarrasser sa terre natale des chacals-garous. Celle-ci fut tuée par une tribu d'orques dans les Pics Gris alors qu'elle traquait le chef des chacals-garous.
+
+Elle a été enchantée pour se comporter comme une dague de jet qui revient dansla main de son lanceur.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- +1 attaque par round
+- revient dans la main du lanceur
+
+TAC0 : +2, +5 contre les lycanthropes
+Dégâts : 1d4 +32, +5 contre lycanthropes
+Type de dégâts (mêlée) : perforant
+Type de dégâts (lancer) : projectile
+Facteur de vitesse : 1
+Speed Factor: 1
+Type de compétence : dague
+Type : arme à une main
+Nécessite : 3 en Force
+
+Poids : 1~

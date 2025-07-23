@@ -1,0 +1,72 @@
+/* Reserving range 40000-49999 */
+
+/********************************
+*   Battle Axe +2: Golden Axe   *
+********************************/
+@40000 = ~Hache dorée +2~
+@40001 = ~La Hache dorée +2
+
+Pour contrer les sorts de leur ennemis jurés les drows, les nains dorés ont développé cette hache d'armes, robuste et relativement bon marché. Elle est conçue avec des métaux rares et des enchantements permettant de frapper avec précision et de dissiper la magie adverse. Les haches jumelles de Clangeddin Barbedargent sont gravés sous le manche de chacune de ces armes.
+
+PARAMÈTRES : 
+
+Capacités de combat :
+- 15 % de chance de lancer un sort de Dissipation de la magie sur la cible
+
+TAC0 : +2 (+4 contre les elfes, les demi-elfes et les drows)
+Dégâts : 1d8 +2 (tranchant); (+4 contre les elfes, les demi-elfes et les drows)
+Facteur de vitesse : 6
+Type de compétence : hache
+Type : arme à une main
+Nécessite : 10 en Force
+
+Poids : 7~
+
+
+/***********************************
+*   Battle Axe +1: Wizard Slayer   *
+***********************************/
+@40100 = ~Pourfendeur de Magiciens +1~
+@40101 = ~Hache de Bala : Pourfendeur de Magiciens +1
+
+Bala était le prince malfaisant d'un clan de nains des profondeurs, qui fut asservi par un cruel mage elfe à Thesk. Si Bala n'avait pas la fourberie de ses semblables, il était encore plus sale et infect que le nain des profondeurs moyen. Fatigué de sa vie d'esclave, Bala rampa jusqu'à l'antre du mage et brisa le crâne de l'elfe. Bien que la rumeur prétende que c'est la puanteur du nain qui eut raison du mage, c'est en fait sa hache enchantée qui brisa les défenses magiques de l'elfe. Il est évident, après observation, que Bala l'a fabriquée lui-même, car elle est très rudimentaire. L'origine de son pouvoir reste cependant mystérieuse. Après une longue carrière consacrée au massacre de mages, Bala mourut sans avoir révélé son secret à ceux qui osaient l'approcher malgré ses poux. Certains disent que la hache tire son pouvoir de la haine farouche que Bala nourrissait à l'égard des magiciens. Elle donne à son propriétaire le pouvoir de dissiper un sort par jour.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Un Fourvoiement magique affecte la victime pendant le prochain tour (80 % de chances de rater une incantation, jet de sauvegarde contre les sorts à -2 pour annuler).
+
+TAC0 : +1
+Dégâts : 1d8+1 (tranchant)
+Facteur de vitesse : 7
+Type de compétence : hache
+Type : arme à une main
+Nécessite : 10 en Force
+
+Poids : 6~
+
+
+/***********************************
+*   Battle Axe +2: Wizard Slayer   *
+***********************************/
+@40200 = ~Battle Axe +2: Wizard Slayer~
+@40201 = ~Bala's Battle Axe +2: Wizard Slayer
+
+Bala was a foul-tempered prince of a gully dwarf clan, which was enslaved by a cruel elven mage in Thesk. Though Bala managed to escape the more cowardly traits of his race, he was even more filthy and obnoxious than the average gully dwarf. Sickened of his enslavement, Bala crept into the mage's lair and cracked the elf's skull open. Although rumor has it that it was the dwarf's stench that overcame the mage, it was, in fact, his enchanted axe that dispelled the elf's magical defenses. It is obvious from the poor workmanship that Bala himself crafted the axe. The mystery lies in where its power originates. After a lengthy career of mage-slaying, Bala died, never having revealed his secret to those who were willing to risk a lice infestation by approaching him. Some say that the axe was powered by Bala's intense hatred of wizards.
+
+Tapping into the lingering essence of Bala's hatred, the axe was futher enchanted to better hunt down wizards.
+
+STATISTICS:
+
+Combat abilities:
+- Miscast Magic affects the victim for the next turn on each successful hit (80% chance of victim's spellcasting failure, Save vs. Spell at -3 negates)
+
+THAC0: +2 (+3 vs. wizards)
+Damage: 1d8+2 (slashing); +1 more vs. wizards
+Speed Factor: 7
+Proficiency Type: Axe
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 6~

@@ -1,0 +1,51 @@
+/* Reserving range 20000-29999 */
+
+
+/*****************************************
+*   Shandalar's Cloak of Protection +2   *
+*****************************************/
+@20000 = ~Cape de protection de Shandalar +2~
+@20001 = ~Cette cape a été volée à Shandalar par le puissant mage Semia, sans doute pour les pouvoirs magiques qu'elle renferme.
+
+Comme Shandalar vous a envoyé dans une prison de téléportation simplement pour la chercher, il va certainement vouloir la récupérer, ne serait-ce que par fierté personnelle.
+
+Thalantyr a restauré une partie des effets magiques de la cape pour un usage plus classique, juste pour agacer sont rival.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- classe d'armure : +2
+- jets de sauvegarde: +2
+- résistance à l'électricité : +50 %
+- résistance au feu : +25 %
+
+Poids : 3~
+
+
+/*************************************
+*   Nymph's Cloak of Protection +2   *
+*************************************/
+@20100 = ~Cape de protection de la nymphe Nymphe +2~
+@20101 = ~La fameuse cape de la nymphe est réputée accroître le Charisme de tout individu, fût-ce le nain le plus grincheux. Une noble cormyrienne qui espérait rendre plus agréable son mariage de raison a semble-t-il cassé sa tirelire afin d'en obtenir deux, une pour elle et une pour son mari.
+
+Cette cape a été améliorée pour protéger le porteur et rendre plu évidents son charme.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- charisme : +2
+- classe d'armure : +2
+- jets de sauvegarde: +2
+
+Capacités de charge :
+- Charme créature deux fois par jour
+  Portée : 12 m
+  Durée : 12 heures
+  Zone d'effet : 1 créature
+  jet de sauvegarde contre les Souffles à -2
+– Amitié deux fois par jour
+  Niveau de jeteur de sorts : 1
+  Durée : 1d4 rounds + 1 round/niveau
+  Zone d'effet: le jeteur
+
+Poids : 3~

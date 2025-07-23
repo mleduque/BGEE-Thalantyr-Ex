@@ -1,0 +1,41 @@
+/* Reserving range 70000-79999 */
+
+
+/************************
+*   Kiel's Buckler +1   *
+************************/
+@70000 = ~Targe de Kiel +1~
+@70001 = ~La Targe de Kiel +1
+
+Il s'agit de la targe de Kiel le tueur de légions, fils aîné de Durlag le tueur de trolls et prince du clan de la tour funeste de son père. Sa légèreté et son excellente fabrication augmentent d'un point la dextérité de celui qui la porte.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- dextérité : +2
+- classe d'armure : +1
+- ne protège pas contre les attaques perforantes et les projectiles
+
+Nécessite : 4 en Force
+
+Poids : 2~
+
+
+/***************************
+*   Buckley's Buckler +1   *
+***************************/
+@70100 = ~Le Bouclier de Buckley +1~
+@70101 = ~Le Bouclier de Buckley +1
+
+Un rectangle en cuir de mammouth constitue ce petit bouclier. Aucun nettoyage ne peut dissiper la puanteur et la décrépitude de cet emblème mal tanné, et néanmoins, ce bouclier malodorant fortifie efficacement son porteur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- constitution : +1
+- classe d'armure : +2
+- ne protège pas contre les attaques perforantes et les projectiles
+
+Nécessite : 4 en force
+
+Poids : 2~

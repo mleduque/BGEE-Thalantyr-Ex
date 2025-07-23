@@ -38,8 +38,23 @@ LANGUAGE
         ~./mod-thalantyr-ex/craftable-items/weidu/tra/en_US/daggers.tra~
         ~./mod-thalantyr-ex/craftable-items/weidu/tra/en_US/hammers.tra~
         ~./mod-thalantyr-ex/craftable-items/weidu/tra/en_US/crossbows.tra~
-
-
+LANGUAGE
+    ~French~
+    ~fr_FR~
+        ~mod-thalantyr-ex/tra/fr_FR/setup.tra~
+        ~mod-thalantyr-ex/tra/fr_FR/thalan.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/amulets.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/axes.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/cloaks.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/crossbows.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/daggers.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/hammers.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/helmets.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/maces.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/plate-mail.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/rings.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/swords.tra~
+        ~mod-thalantyr-ex/craftable-items/weidu/tra/fr_FR/shields.tra~
 /*********************
 *   Mod Components   *
 *********************/
@@ -52,7 +67,7 @@ PRINT ~DEBUG: var `MOD_FOLDER`: %MOD_FOLDER%~
 
 // Get crafting state for THALAN.DLG
 PRINT @2
-OUTER_SET ThalantyrCraftingState = STATE_WHICH_SAYS @9001 FROM ~THALAN~
+OUTER_SET ThalantyrCraftingState = STATE_WHICH_SAYS 9001 IN ~mod-thalantyr-ex/tra/%s/thalan.tra~ FROM THALAN
 PRINT @3 //found state
 
 //copy over items

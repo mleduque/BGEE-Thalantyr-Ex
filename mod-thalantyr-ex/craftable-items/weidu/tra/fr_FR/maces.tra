@@ -1,0 +1,24 @@
+/* Reserving range 90000-99999 */
+
+
+/*****************************
+*   Mace +2: The Stupefier   *
+*****************************/
+@90000 = ~La Stupéfiante +2~
+@90001 = ~La Stupéfiante +2
+
+Cette masse d'armes n'est pas simplement classieuse et élégante, elle est littéralement étourdissante. Une seule attaque au bon endroit peut complètement paralyser un adversaire.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 15 % de chance à chaque coup d'assommer la cible pendant 1 round (annulé par une sauvegarde contre les sorts à -1)
+
+TAC0 : +2
+Dégâts : 1d6 +3 (contondant)
+Facteur de vitesse : 6
+Type de compétence : masse d'armes
+Type : arme à une main
+Nécessite : 10 en Force
+
+Poids : 8~

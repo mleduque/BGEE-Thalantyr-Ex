@@ -1,0 +1,97 @@
+/* Reserving range 30000-39999 */
+
+
+/*********************************
+*   Cursed Ring: Koveras' Gift   *
+*********************************/
+@30000 = "Héritage de Gorion"  //unidentified name
+@30001 = ~Anneau maudit : cadeau de Koveras~   //identified name
+
+//Unidentified description
+@30002 = ~Anneau de protection +1 : Héritage de Gorion
+
+Cet anneau en or vous a été donné par Koveras, une connaissance de Gorion que vous avez rencontré en retournant à Chateau-Suif. Il affirmait tenir cet anneau de Gorion pour le retourner à <CHARNAME> si quelque chose devait lui arriver pendant la fuite de Chateau-Suif. Il est engravé de charmants motifs.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– classe d'armure : +1
+– jets de sauvegarde : +1
+
+Poids : 0~
+
+//Identified Description
+@30003 = ~Anneau maudit : cadeau de Koveras
+
+Cet anneau d'or est frappé d'une marque amnienne et porte un sceau de la guilde des Voleurs de l'ombre d'Amn. Il a été donné à <CHARNAME> par Koveras (un anagramme de Sarevok). Il lui a été donné comme pièce d'un plan destiné à accuser <CHARNAME> du meurtre des dirigeants du Trône de Fer à Chateau-Suif.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– classe d'armure : -3
+– jets de sauvegarde : -3
+- TAC0 : -3
+- ne peut être ôtée qu'à l'aide d'un sort de Délivrance de la malédiction
+
+Poids : 0~
+
+
+/*******************************************
+*   Ring of Protection +1: Koveras' Gift   *
+*******************************************/
+@30100 = ~Anneau de protection +1 : Le cadeau de Koveras~ //Identified name
+
+//Identified description; was never cursed
+@30101 = ~Anneau de protection +1 : Le cadeau de Koveras
+
+Cet anneau d'or est frappé d'une marque amnienne et porte un sceau de la guilde des Voleurs de l'ombre d'Amn. Il a été donné à <CHARNAME> par Koveras (un anagramme de Sarevok). Il lui a été donné comme pièce d'un plan destiné à accuser <CHARNAME> du meurtre des dirigeants du Trône de Fer à Chateau-Suif.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– classe d'armure : +1
+– jets de sauvegarde : +1
+– points de vie : +5
+– résistance à la magie : +5 %
+
+Poids : 0~
+
+//Identified description; curse lifted
+@30102 = ~Ring of Protection +1: Koveras' Gift
+
+This gold ring was minted with an Amnian imprint and bears a mark of the Shadow Thieves' guild of Amn upon it. It was given to <CHARNAME> by "Koveras" (an alias for Sarevok), imbued with a strong curse. It was given as part of an attempt to identify <CHARNAME> as the murderer of the Iron Throne leadership at Candlekeep.
+
+The ring has had its curse removed and has been purified for <CHARNAME> by Thalantyr.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1
+– Saving Throws: +1
+– Hit Points: +5
+– Magic Resistance: +5%
+
+Weight: 0~
+
+
+/*******************************************
+*   Ring of Protection +2: Koveras' Gift   *
+*******************************************/
+@30200 = ~Ring of Protection +2: Koveras' Gift~ //Identified name
+//Identified description
+@30201 = ~Ring of Protection +2: Koveras' Gift
+
+This gold ring was minted with an Amnian imprint and bears a mark of the Shadow Thieves' guild of Amn upon it. It was given to <CHARNAME> by Sarevok (under the alias Koveras). It was given as part of an attempt to identify <CHARNAME> as the murderer of the Iron Throne leadership.
+
+A taint connecting Sarevok and <CHARNAME> lingers on this ring. This connection has been utilized by Thalantyr to enhance its enchantment.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Hit Points: +5
+– Magic Resistance: +10%
+– Protects the wearer from all forms of death magic. This includes, but is not limited to: Disintegrate; Power Word, Kill; Death Spell; and Finger of Death.
+
+Weight: 0~

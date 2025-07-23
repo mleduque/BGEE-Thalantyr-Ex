@@ -1,0 +1,24 @@
+/* Reserving range 130000-139999 */
+
+
+/*****************************************
+*   Light Crossbow +2: The Army Scythe   *
+*****************************************/
+@130000 = ~L'Armée scythe +2~
+@130001 = ~Arbalète Légère de Vitesse : L'Armée Scythe +2
+
+Des humains qui occupèrent pour une brève période un avant-poste dans la Forêt Gelée découvrirent cette arme et de nombreuses autres dans les ruines d'un campement au cœur de ce pays froid. Sans jamais connaître le nom leurs bienfaiteurs disparus, les colonisateurs utilisèrent ces "outils" pour se tailler un territoire, bien que cela n'ait finalement servi à rien. Ecrasés par des hobgobelins supérieurs en nombre, ces malheureux esprits ont rejoint les anciens dans leur anonymat.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 1 attaque supplémentaire par round
+
+TAC0 : +2
+Dégâts : +2
+Facteur de vitesse : 3
+Type de compétence : arbalète
+Type : arme à deux mains
+Nécessite : 8 en Force
+
+Poids : 5~

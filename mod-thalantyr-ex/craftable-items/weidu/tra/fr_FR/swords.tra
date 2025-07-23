@@ -1,0 +1,47 @@
+/* Reserving range 100000-109999 */
+
+
+/******************************
+*   Long Sword +3: Varscona   *
+******************************/
+@100000 = ~Varscona +3~
+@100001 = ~Varscona +3
+
+Ce type de lames était employé depuis longtemps par les prêtres de Sharran pendant les rites sacrificiels qui marquent la "Fête de la Lune". D'après des légendes, lorsque la propriétaire de cette épée mourut, sa dépouille fut momifiée et la lame fut placée sur sa poitrine comme symbole de puissance. Dans la première partie d'un rituel depuis longtemps oublié, on l'avait exhumée et elle était revenue à la vie sous une autre forme. Malheureusement, les quelques personnes qui connaissaient son existence périrent dans les guerres des cultes ; sa tombe devint une prison dans laquelle elle fut oubliée. Elle y développa une fureur proche de la démence. Son tombeau fut finalement découvert, mais il était vide et n'indiquait pas l'endroit où elle se trouvait. Pour certains, sa colère était telle qu'elle avait fini par se fondre dans la lame de son arme. Quoi qu'il en soit, après des siècles de haines inassouvies, l'épée possède un pouvoir qui lui est propre. Elle est aujourd'hui mortelle en combat. 
+
+Thalantyr a amélioré les enchantements de cette épée pour la rendre encore plus mortelle.
+
+
+Capacités d'équipement :
+- résistance au feu : +20 %
+
+TAC0 : +3
+Dégâts : 1d8 +3, 1d4+1 dégât de froid
+Type de dégâts : tranchant
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type: arme à une main
+Nécessite : 5 en Force
+
+Poids : 3~
+
+
+/******************************
+*   Long Sword +2: Harrower   *
+******************************/
+@100100 = ~Harrower +2~
+@100101 = ~Harrower +2
+
+Cette épée longue à double tranchant émet une lueur blanche, même à la lumière du plus rouge des flambeaux. Les runes Dethek le long de la lame lui suggèrent le nom d’ "Harrower", une arme utilisée par Ariabel d’Eauprodonde, une paladine de Lathandre qui porta jadis l’épée contre le vampire Zerafex et ses serviteurs impies. Ariabel n’a pas survécu à l’affrontement, mais des décennies plus tard, une équipe de pilleurs de tombe du Téthyr récupéra l’épée dans la crypte où elle était tombée. 
+
+PARAMÈTRES :
+
+TAC0 : +2, +4 contre les mort-vivants
+Dégâts : 1d8 +2, +4 contre les mort-vivants
+Type de dégâts : tranchant
+Facteur de vitesse : 4
+Type de compétence : épée longue
+Type : arme à une main
+Nécessite : 6 en Force
+
+Poids : 4~

@@ -1,0 +1,18 @@
+/* Reserving range 50000-59999 */
+
+
+/***************************
+*   Ankheg Plate Mail +1   *
+***************************/
+@50000 = ~Armure de plates d'ankheg +1~
+@50001 = ~Armure de plates d'ankheg +1
+
+Cette armure de plate a été confectionnée avec de façon experte par Taerom Fuiruim de Beregost. Gainée par les écailles chitineuses d'un ankheg, elle offre une meilleure protection qu'une armure de plate traditionnelle et n'est pas vulnérable à la rouille. Mais comme vous le dira tout aventurier épuisé, l'aspect le plus appréciable de l'armure d'ankheg est sa légèreté et son faible encombrement. Les monstres passent, mais la fatigue est un ennemi persistant.
+
+Cette armure a été enchantée par Thalantyr de Beregost pour encore mieux protéger son porteur.
+
+PARAMÈTRES :
+
+Classe d'armure : 0 (-3 contre les armes tranchantes, -1 contre les armes perforantes et les projectiles)
+
+Poids : 25~
