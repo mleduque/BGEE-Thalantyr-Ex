@@ -1,3 +1,4 @@
 [submodule "mod-thalantyr-ex/craftable-items"]
 	path = mod-thalantyr-ex/craftable-items
-	url = https://github.com/BardezAnAvatar/BGEE-Craftable-Items
+	url = git@github.com:mleduque/BGEE-Craftable-Items.git
+	branch = french
