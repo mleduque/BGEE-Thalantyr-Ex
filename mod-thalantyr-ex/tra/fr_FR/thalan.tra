@@ -1,0 +1,97 @@
+//Thalantyr Mod Base state/response
+@9000 = ~Je n'en ai pas besoin pour le moment. J'ai peut-être quelque chose d'autre que vous pourriez modifier ?~
+@9001 = ~Montrez-moi ce que vous avez, et je vous dirais si ça peut être modifié.~ //the state with all the crafting
+
+//Shandalar's Cloak
+@1001 = ~J'ai une cape inoffensive qui appartenait à Shandalar. J'imagine que vous pouvez restaurer sa magie ?~
+@1002 = ~Quelle idée ! Soit vous êtes incroyablement chanceux, soit vous n'êtes pas couteau le plus affûté du tiroir. En tout cas, vous êtes fabuleusement stupide pour contrarier un mage aussi puissant que Shandalar.~~Quelle idée ! Soit vous êtes incroyablement chanceuse, soit vous n'êtes pas couteau le plus affûté du tiroir. En tout cas, vous êtes fabuleusement stupide pour contrarier un mage aussi puissant que Shandalar.~
+@1003 = ~J'interagis peu avec Shandalar, mais ceci pourrait servir d'irritant académique pour lui, et cela m'amuse. Voici mon offre : je peux prendre la cape de Shandalar, la pierre-sésame de Shandalar,deux parchemins de protection contre l'électricité et deux parchemins de protection contre le feu. Et pour le risque social associé, il me faudra aussi, disons, 10 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1004 = ~Oui, réparez-la.~
+
+//Varscona +3
+@1100 = ~J'ai une épée longue, accordée au froid. Pouvez-vous faire quelque chose avec ?~
+@1101 = ~Voyons voir... Ah, Varscona, c'est bien ça ? J'ai bien sûr une thèse ou deux pour modifier ce genre d'arme. Si vous m'apportez l'épée longue Varscona, une émeraude, un parchemin de cône de froid, un parchemin de Toucher vampirique, un parchemin de protection contre le feu et, disons, 6 000 pièces d'or, je peux l'améliorer. Dois-je faire cela pour vous ?~
+@1102 = ~Oui, améliorez Varscona.~
+
+//Koveras' Ring of Protection
+@1200 = ~J'ai cet anneau maudit que l'on m'a donné à Chateau-Suif. Pouvez-vous retirer la malédiction ?~
+@1201 = ~Montrez-moi ça.~
+@1202 = ~Ah. C'est une malédiction particulièrement vicieuse. Et puissante avec ça. Je suppose que si cet anneau a une valeur sentimentale, je pourrai inverser la malédiction pour vous. Il me faudra trois parchemins de Délivrance de la malédiction, deux potions de Fortitude, trois grenats et 3 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1203 = ~Oui, s'il vous plaît, retirez la malédiction.~
+@1204 = ~J'ai cet anneau que m'a donné quelqu'un qui cherche à me tuer. Pouvez-vous en faire quelque chose ?~
+@1205 = ~Fascinant. Cet anneau porte une souillure meurtrière, comme s'il cherchait la vengeance et le sang. Il y a évidemment une intention malveillante de la part de quiconque l'a donné.~
+@1206 = ~Je pourrais m'enquérir de la connexion entre vous deux, pour vous protéger de cette souillure ? Il me faudrait une perle, un parchemin de protection contre la magie, trois parchemins de Rappel à la vie et 5 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1207 = ~Oui, s'il vous plaît, faites-le.~
+
+//Amulet of protection +2
+@1300 = ~Pouvez-vous faire quelque chose de cette Amulette de protection +1 ?~
+@1301 = ~Oui, je peux fabriquer une Amulette de protection +2 avec deux Amulettes de protection +1, ou avec une amulette et un de ses équivalents en anneau ou en cape. Pour cela il me faudra en plus quatre gemmes lingot de lune et pour paiement 5 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1302 = ~\[2 amulettes\] Oui, s'il vous plaît, faites-le.~
+@1303 = ~\[1 amulette, 1 cape\] Oui, s'il vous plaît, faites-le.~
+@1304 = ~\[1 amulette, 1 anneau\] Oui, s'il vous plaît, faites-le.~
+
+//Cloak of Protection +2
+@1305 = ~Pouvez-vous faire quelque chose de cette Cape de protection +1 ?~
+@1306 = ~Oui, je peux fabriquer une Cape de protection +2 avec deux Capes de protection +1, ou avec une cape et un de ses équivalents en amulette ou en anneau. Pour cela il me faudra en plus quatre gemmes iole et une opale noire, et pour paiement 5 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1307 = ~\[2 capes\] Oui, s'il vous plaît, faites-le.~
+@1308 = ~\[1 cape, 1 amulette\] Oui, s'il vous plaît, faites-le.~
+@1309 = ~\[1 cape, 1 anneau\] Oui, s'il vous plaît, faites-le.~
+
+//Algernon's Cloak +1
+@1310 = ~J'ai la Cape d'Algernon. Pouvez-vous la rendre plus utile ?~
+@1311 = ~J'ai une Cape de la Nymphe. Pouvez-vous la rendre plus utile ?~
+@1312 = ~Rendre une Cape de Nymphe et son charme « plus utiles » ? Êtes-vous réellement assez idiot pour ne pas voir la valeur de cet objet ?~
+@1313 = ~Laissons de côté l'impertinence. Je peux l'améliorer. Il me faudra la cape, deux parchemins d'Amitié, un anneau, amulette ou cape de protection +2 et 10 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1314 = ~\[amulette de protection +2\] Oui, s'il vous plaît, faites-le.~
+@1315 = ~\[cape de protection +2\] Oui, s'il vous plaît, faites-le.~
+@1316 = ~\[anneau de protection +2\] Oui, s'il vous plaît, faites-le.~
+
+//axes
+@1400 = ~J'ai cette hache d'armes naine dorée. Pouvez-vous l'améliorer ?~
+@1401 = ~Hmm. Hache naine, enchantement de dissipation, apparemment prévue pour la défense dans les Tréfonds Obscurs.~
+@1402 = ~Je peux améliorer ses chances de dissiper la magie et la rendre plus dangereuse pour ses ennemis favoris. Il me faudra un diamant et un parchemin de Dissipation de la magie. Et un paiement de 3 000 pièces d'or. Dois-je faire cela pour vous ?~
+@1403 = ~Oui, s'il vous plaît, faites-le.~
+
+@1404 = ~J'ai cette hache, ordinaire au combat à part contre les lanceurs de sorts. Que pouvez-vous en faire ?~
+@1405 = ~Cette... "hache"... est sommaire. Pourquoi voudriez-vous l'enchanter ?~
+@1406 = ~Ah, je perçois l'enchantement maintenant. Intéressant... Comme si elle était enchantée avec le sang d'un mage... Peu importe, je peux améliorer ses capacités au combat si vous m'apportez une perle et 3 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+@1407 = ~J'ai toujours la hache Pourfendeur de Magiciens. Pouvez-vous l'améliorer encore ?~
+@1408 = ~Je suppose que je pourrais l'accorder encore contre les mages et améliorer se utilisation basique au combat. Il me faudra le Pourfendeur de mage +1, une opale d'eau et 6 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+//mace(s)
+@1500 = ~J'ai cette masse d'armes, La Stupéfiante. Pouvez-vous en faire quelque chose ?~
+@1501 = ~Bien sûr. Je peux améliorer ses capacités martiales assez facilement. J'aurai besoin de La Stupéfiante, de deux gemmes aquamarines et de 4 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+//hammer(s)
+@1600 = ~J'ai ce Marteau de l'Aube. Pouvez-vous faire quelque chose avec ?~
+@1601 = ~Je pourrais améliorer son enchantement de combat assez facilement, et aussi améliorer des chances de repousser l'ennemi. Il me faudra pour cela le Marteau de l'Aube, six gemmes andar et 4 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+//sword(s)
+@1700 = ~J'ai cette épée longue efficace contre les morts-vivants. Pouvez-vous améliorer son enchantement ?~
+@1701 = ~Enterprise~
+@1702 = ~Ah, ces runes identifient l'épée, "Harrower". Elle m'est familière.~
+@1703 = ~Je peux améliorer cette épée pour la rendre plus utile en combat ordinaire. Il me faudra l'épée, six gemmes œil de lynx et 6 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+//Crossbow(s)
+@1800 = ~J'ai cette arbalète légère, qui tire plus rapidement que la plupart. Pouvez-vous faire quelque chose avec ?~
+@1801 = ~Peut-être. Ah, oui, je crois que je peux. Ce sera très certainement coûteux, mais avec l'arbalète, six gemmes d'agate de feu et 8 000 pièces d'or je peux améliorer l'enchantement. Dois-je faire cela pour vous ?~
+
+//Armor(s)
+@2000 = ~J'ai cette armure faite avec une carapace d'ankheg. Pouvez-vous l'enchanter ?~
+@2001 = ~Space Odyssey~
+@2002 = ~Ankheg, vous dites ? Je peux encore sentir son odeur nauséabonde.C'est le travail de Taerom je suppose ? Je peux l'enchanter si vous me laissez l'armure avec deux diamants, pour le prix de 8 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+@2003 = ~J'ai la Targe de Kiel. pouvez-vous l'améliorer ?~
+@2004 = ~La Targe de Kiel n'a pas d'enchantement de base, aussi étonnant cela soit-il. Je peux en ajouter, il me faudra la targe, quatre gemmes lingot de lune et 3 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+@2005 = ~J'ai ce bouclier en cuir, qui a déjà un enchantement de vigueur. Pouvez-vous l'améliorer ?~
+@2006 = ~Aussi peu sophistiqué soit-il, ce bouclier peut être enchanté avec des runes de protection basiques. J'aurai besoin du Bouclier de Buckley, six gemmes de jaspe et 2 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+@2007 = ~J'ai ce casque, porté par Kiel. Pouvez-vous améliorer son enchantement ?~
+@2008 = ~Je pourrais améliorer le Heaume de Kiel en le rendant plus protecteur. Il me faudra le Heaume de Kiel, deux parchemins d'Armure, deux gemmes larme de ciel et 4 000 pièces d'or. Dois-je faire cela pour vous ?~
+
+//Daggers
+@2100 = ~J'ai cette dague pour combattre les lycanthropes. Pouvez-vous l'améliorer ?~
+@2101 = ~L'enchantement sur cette dague... On dirait ceux de Dradeel, mais je ne me souviens pas avoir vu mention de ce genre d'artefact.~
+@2102 = ~Intérêt académique à part, je peux améliorer cette dague chasseuse de lycanthropes pour vous. Il me faudra cette dague Antigarous, deux colliers d'or, deux huiles de rapidité blanches et 5 000 pièces d'or. Dois-je faire cela pour vous ?~

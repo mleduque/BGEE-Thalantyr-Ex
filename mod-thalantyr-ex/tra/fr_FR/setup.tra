@@ -1,0 +1,18 @@
+@0 = "Extension du mod Thalantyr Item Upgrade par Bardez"
+@1 = "Vous devez avoir installe le Thalantyr Item Upgrade pour l'etendre (avec ce mod) !"
+@2 = "Tentative de localisation de l'état de fabrication dans THALAN.DLG..."
+@3 = "THALAN.DLG résultat de la recherche de l'état de fabrication : %ThalantyrCraftingState%"
+
+//unused
+@10 = ~Cape de Shandalar~
+@11 = ~Varscona +3~
+@12 = ~Anneau de Protection de Koveras [Base]~
+
+//used
+@13 = ~Anneau de Protection de Koveras +2~
+@14 = ~Anneau de Koveras: Cadeau maudit~
+@15 = ~Anneau de Koveras: Pas de cadeau maudit~
+
+//BG1NPC Project detection
+@16 = ~Initialisation de la détection de BG1NPC Project ~
+@17 = "Résultat de la détection de BG1NPC Project : %Bg1NpcProjectInstalled%"
